@@ -1,0 +1,9 @@
+name: AutoBlock
+version: '${project.version}'
+main: com.ashkiano.autoblock.AutoBlock
+api-version: 1.16
+authors: [ AshKiano ]
+commands:
+  autoblock:
+    description: Automatically convert ingots to blocks.
+    usage: /autoblock
